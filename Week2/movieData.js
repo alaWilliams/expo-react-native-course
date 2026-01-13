@@ -1,0 +1,22 @@
+export const movies = [
+  { title: "The Shawshank Redemption", year: 1994, genre: "Drama", rating: 9.3 },
+  { title: "The Godfather", year: 1972, genre: "Crime", rating: 9.2 },
+  { title: "The Dark Knight", year: 2008, genre: "Action", rating: 9.0 },
+  { title: "Pulp Fiction", year: 1994, genre: "Crime", rating: 8.9 },
+  { title: "Forrest Gump", year: 1994, genre: "Drama", rating: 8.8 },
+  { title: "Inception", year: 2010, genre: "Sci-Fi", rating: 8.8 },
+  { title: "The Matrix", year: 1999, genre: "Sci-Fi", rating: 8.7 },
+  { title: "Fight Club", year: 1999, genre: "Drama", rating: 8.8 },
+  { title: "The Lord of the Rings: The Fellowship of the Ring", year: 2001, genre: "Fantasy", rating: 8.8 },
+  { title: "Star Wars: Episode V - The Empire Strikes Back", year: 1980, genre: "Sci-Fi", rating: 8.7 },
+  { title: "Interstellar", year: 2014, genre: "Sci-Fi", rating: 8.6 },
+  { title: "Gladiator", year: 2000, genre: "Action", rating: 8.5 },
+  { title: "The Lion King", year: 1994, genre: "Animation", rating: 8.5 },
+  { title: "Back to the Future", year: 1985, genre: "Adventure", rating: 8.5 },
+  { title: "Jurassic Park", year: 1993, genre: "Adventure", rating: 8.1 },
+  { title: "Titanic", year: 1997, genre: "Romance", rating: 7.8 },
+  { title: "The Silence of the Lambs", year: 1991, genre: "Thriller", rating: 8.6 },
+  { title: "Saving Private Ryan", year: 1998, genre: "War", rating: 8.6 },
+  { title: "Braveheart", year: 1995, genre: "Historical", rating: 8.3 },
+  { title: "Avatar", year: 2009, genre: "Sci-Fi", rating: 7.8 }
+];
