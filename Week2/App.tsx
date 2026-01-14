@@ -4,6 +4,7 @@ import MovieList from './components/MovieList';
 import MovieCard from './components/MovieCard';
 import MoveTheBall from './components/MoveTheBall';
 import Geolocation from './components/Geolocation';
+import DeviceInfo from './components/DeviceInfo';
 
 const movie1= { title: "Pulp Fiction", year: 1994, genre: "Crime", rating: 8.9 }
 const movie2= { title: "Pulp Fiction", year: 1994, genre: "Crime", rating: 7 }
@@ -17,7 +18,8 @@ export default function App() {
     //   <StatusBar style="auto" />
     // </View>
     // <MoveTheBall />
-    <Geolocation />
+    // <Geolocation />
+    <DeviceInfo/>
   );
 }
 
